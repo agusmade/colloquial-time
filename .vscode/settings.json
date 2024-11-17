@@ -1,0 +1,14 @@
+{
+	"editor.comments.insertSpace": true,
+	"editor.formatOnPaste": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnType": true,
+	"editor.formatOnSave": true,
+	"editor.insertSpaces": false,
+	"typescript.format.enable": false,
+	"typescript.validate.enable": false,
+	"javascript.validate.enable": false,
+	"files.associations": {
+		"*.md": "mdx"
+	}
+}

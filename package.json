@@ -1,0 +1,41 @@
+{
+	"name": "colloquial-time",
+	"version": "0.1.1",
+	"description": "A lightweight library to express time in colloquial, human-friendly phrases for various languages.",
+	"main": "src/index.js",
+	"types": "index.d.ts",
+	"scripts": {
+		"test": "node test/test.js"
+	},
+	"files": [
+		"package.json",
+		"README.md",
+		"index.d.ts",
+		"LICENSE",
+		"src"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/agusmade/colloquial-time.git"
+	},
+	"keywords": [
+		"time",
+		"localization",
+		"i18n",
+		"colloquial",
+		"natural-language",
+		"languages",
+		"spoken-language",
+		"multi-language",
+		"human-readable",
+		"date-formatting"
+	],
+	"author": "Agus Made <krisnaparta@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/agusmade/colloquial-time/issues"
+	},
+	"homepage": "https://github.com/agusmade/colloquial-time#readme",
+	"dependencies": {},
+	"devDependencies": {}
+}
